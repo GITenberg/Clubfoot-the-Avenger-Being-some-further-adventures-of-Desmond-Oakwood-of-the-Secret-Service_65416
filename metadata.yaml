@@ -1,0 +1,28 @@
+_repo: Clubfoot-the-Avenger-Being-some-further-adventures-of-Desmond-Oakwood-of-the-Secret-Service_65416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Valentine
+    alias: Valentine, Douglas
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '904'
+    url: http://www.gutenberg.org/2009/agents/904
+    wikipedia: https://en.wikipedia.org/wiki/Valentine_Williams
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Spy stories'
+- GITenberg
+title: "Clubfoot the Avenger\r\nBeing some further adventures of Desmond Oakwood,\
+  \ of the Secret Service"
+url: http://www.gutenberg.org/ebooks/65416
